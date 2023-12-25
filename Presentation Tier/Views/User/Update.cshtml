@@ -1,0 +1,29 @@
+﻿@model ApplicationUser
+@{
+    ViewData["Title"] = "Update";
+}
+
+<h1>Update</h1>
+
+<br/>
+<br/>
+
+<div class="row">
+    <div class="col-6">
+        <form asp-action="Update" asp-controller="User" enctype="multipart/form-data">
+            <input hidden asp-for="@Model.Id">
+            <div class="form-group">
+                <label asp-for="@Model.UserName" class="col-form-label"></label>
+                <input asp-for="@Model.UserName" class="form-control" />
+                <span asp-validation-for="@Model.UserName" class="text-danger"></span>
+            </div>
+            <br />
+            <input type="submit" value="Save" class="btn btn-primary" />
+            <a asp-action="Index" class="btn btn-light">Back To List</a>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

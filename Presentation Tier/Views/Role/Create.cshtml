@@ -1,0 +1,16 @@
+﻿@model ApplicationRole
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<div class="row">
+    <div class="col-6">
+        <form asp-action="Create" asp-controller="Role" enctype="multipart/form-data">
+            <partial name="Partial Views/CreateUpdatePartialView" model="@Model"/>
+            <input type="submit" value="Add" class="btn btn-primary" />
+            <a asp-action="Index" class="btn btn-light">Back To List</a>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,42 @@
+﻿@model EmployeeViewModel
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="row">
+    <div class="col-12">
+        <img src="~/Files/Images/@Model.ImageURL" class="img-circle" height="100" width="100" alt="Employee Image" />
+
+        <div class="form-group">
+            <label asp-for="@Model.Name" class="col-form-label"></label>
+            <input asp-for="@Model.Name" class="form-control" readonly />
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.Address" class="col-form-label"></label>
+            <input asp-for="@Model.Address" class="form-control" readonly />
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.Email" class="col-form-label"></label>
+            <input asp-for="@Model.Email" class="form-control" readonly />
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.Salary" class="col-form-label"></label>
+            <input asp-for="@Model.Salary" class="form-control" readonly />
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.HireDate" class="col-form-label"></label>
+            <input asp-for="@Model.HireDate" class="form-control" readonly />
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.DepartmentId" class="col-form-label"></label>
+            <input asp-for="@Model.DepartmentId" class="form-control" readonly />
+        </div>
+        <div class="form-group form-check">
+            <label asp-for="@Model.IsActive" class="form-check-label"></label>
+            <input asp-for="@Model.IsActive" type="checkbox" class="form-check-input" disabled value="1" />
+        </div>
+        <br />
+        <a class="btn btn-success" asp-action="Update" asp-route-Id="@Model.Id">Edit</a>
+        <a asp-action="Index" class="btn btn-light">Back To List</a>
+    </div>
+</div>

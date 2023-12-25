@@ -1,0 +1,289 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Presentation Tier.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Presentation Tier.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\Files\\Images\\0b4d41ff-e4a3-4bfb-9631-e8f18b96bc87-vector-users-icon.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\0b4d41ff-e4a3-4bfb-9631-e8f18b96bc87-vector-users-icon.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\Files\\Images\\49ef1c8b-9f72-4cf5-a94c-98dcb25fda70-0b4d41ff-e4a3-4bfb-9631-e8f18b96bc87-vector-users-icon.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\49ef1c8b-9f72-4cf5-a94c-98dcb25fda70-0b4d41ff-e4a3-4bfb-9631-e8f18b96bc87-vector-users-icon.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\Files\\Images\\4be93cee-8dd1-4cc1-b658-620299f34e01-219969.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\4be93cee-8dd1-4cc1-b658-620299f34e01-219969.png"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\Files\\Images\\577802e8-e7d7-4a70-9d4e-91db56986116-EmployeesDefaultImage.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\577802e8-e7d7-4a70-9d4e-91db56986116-EmployeesDefaultImage.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\Files\\Images\\EmployeesDefaultImage.jpg",
+      "PackagePath": "staticwebassets\\Files\\Images\\EmployeesDefaultImage.jpg"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\ASP.NET Route Course\\Projects\\Company Management System\\Presentation Tier\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Presentation Tier.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Presentation Tier.props",
+      "PackagePath": "build\\Presentation Tier.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Presentation Tier.props",
+      "PackagePath": "buildMultiTargeting\\Presentation Tier.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Presentation Tier.props",
+      "PackagePath": "buildTransitive\\Presentation Tier.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

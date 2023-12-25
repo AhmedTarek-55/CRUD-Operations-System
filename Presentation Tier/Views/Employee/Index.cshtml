@@ -1,0 +1,98 @@
+﻿@model IEnumerable<EmployeeViewModel>
+@inject IUnitOfWork unitOfWork
+@{
+    var Departments = new SelectList(unitOfWork.DepartmentRepository.GetAll(), "Id", "Name");
+}
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Employees</h1>
+<br />
+
+<a asp-action="Create" class="btn btn-primary">Add New Employee</a>
+
+<br />
+<br />
+
+@if (Model?.Count() > 0)
+{
+
+    <form class="form-inline " asp-action="Index" asp-controller="Employee">
+        <div class="row">
+            <div class="col-sm-8">
+                <input class="form-control form-control-sm mr-3 w-75" name="SearchValue" type="text" placeholder="Search" aria-label="Search">
+                <i class="fas fa-search" aria-hidden="true"></i>
+            </div>
+            <div class="col-sm-3">
+                <input type="submit" value="Search" class="btn btn-success btn-block" />
+            </div>
+        </div>
+    </form>
+
+    <form asp-controller="Employee" asp-action="Index" method="post">
+        <div class="row">
+            <div class="form-group">
+                <select class="form-control form-control-sm my-3 w-75" name="departmentId" value="@Departments" asp-items="Departments">
+                    <option>-- Select Department --</option>
+                </select>
+            </div>
+            <div class="col-sm-3 mb-3">
+                <input type="submit" value="Show Results" class="btn btn-success btn-block" />
+            </div>
+        </div>
+    </form>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">@Html.DisplayNameFor(emp => emp.Name)</th>
+                <th scope="col">@Html.DisplayNameFor(emp => emp.Image)</th>
+                <th scope="col">@Html.DisplayNameFor(emp => emp.Address)</th>
+                <th scope="col">@Html.DisplayNameFor(emp => emp.Email)</th>
+                <th scope="col">@Html.DisplayNameFor(emp => emp.Salary)</th>
+                <th scope="col">@Html.DisplayNameFor(emp => emp.HireDate)</th>
+                <th scope="col">Details</th>
+                <th scope="col">Update</th>
+                <th scope="col">Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td>
+                        <img src="~/Files/Images/@item.ImageURL" class="img-circle" height="40" width="40" alt="Employee Image" />
+                    </td>
+                    <td>@item.Address</td>
+                    <td>@item.Email</td>
+                    <td>@item.Salary</td>
+                    <td>@item.HireDate-@Html.DisplayFor(date => item.HireDate.Day)-@Html.DisplayFor(date => item.HireDate.Month)-@Html.DisplayFor(date => item.HireDate.Year)</td>
+                    <td>
+                        <a class="btn btn-success" asp-controller="Employee" asp-action="Details" asp-route-Id="@item.Id">
+                            <i class="fas fa-eye"></i>Details
+                        </a>
+                    </td>
+                    <td>
+                        <a class="btn btn-warning" asp-controller="Employee" asp-action="Update" asp-route-Id="@item.Id">
+                            <i class="fas fa-edit"></i>Update
+                        </a>
+                    </td>
+                    <td>
+                        <a class="btn btn-danger" asp-controller="Employee" asp-action="Delete" asp-route-Id="@item.Id">
+                            <i class="fas fa-trash"></i>Delete
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+else
+{
+    <div class="alert alert-warning">
+        <h3>No Employees Found</h3>
+    </div>
+}
